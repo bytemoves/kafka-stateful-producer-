@@ -1,5 +1,5 @@
 #####
-Certainly! Below is a sample README for the described system.
+
 
 Kafka Stateful Message Processor
 This project implements a streaming system using Apache Kafka, which categorizes messages into various states and ensures their reliable processing and storage.
@@ -11,3 +11,4 @@ Persistent Store: A database that retains messages with their respective states.
 Test Suite: Validates that no messages are dropped and that each message is correctly parsed into its respective state.
 Getting Started
 Prerequisites
+go 1.7+
