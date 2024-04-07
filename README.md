@@ -1,6 +1,6 @@
 
 
-###
+####
 Kafka Stateful Message Processor
 This project implements a streaming system using Apache Kafka, which categorizes messages into various states and ensures their reliable processing and storage.
 
